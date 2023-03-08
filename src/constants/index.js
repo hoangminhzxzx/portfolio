@@ -4,6 +4,8 @@ import {
   creator,
   web,
   javascript,
+  laravel,
+  php,
   typescript,
   html,
   css,
@@ -28,6 +30,8 @@ import {
   storepify,
   maxsale,
   maxsalepopup,
+  diana,
+  liquid,
 } from "../assets";
 
 export const navLinks = [
@@ -70,45 +74,25 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "laravel",
+    icon: laravel,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "php",
+    icon: php,
   },
+  {
+    name: "liquid",
+    icon: liquid,
+  }
 ];
 
 const experiences = [
@@ -229,6 +213,23 @@ const projects = [
       },
     ],
     image: maxsalepopup,
+    // source_code_link: "https://github.com/",
+  },
+  {
+    name: "Diana Authentic",
+    description:
+      "Dự án cá nhân, build database các phần Prolducts, collection, customers, orders dựa theo Shopify",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "laravel",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: diana,
     // source_code_link: "https://github.com/",
   },
 ];

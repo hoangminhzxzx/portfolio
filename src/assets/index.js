@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import laravel from "./tech/laravel.png";
+import php from "./tech/php.png";
+import liquid from "./tech/liquid.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -34,6 +37,7 @@ import tripguide from "./tripguide.png";
 import storepify from "./storepify.png";
 import maxsale from "./maxsale.png";
 import maxsalepopup from "./maxsalepopup.png";
+import diana from "./diana.png";
 
 
 export {
@@ -69,5 +73,9 @@ export {
   tripguide,
   storepify,
   maxsale,
-  maxsalepopup
+  maxsalepopup,
+  diana,
+  laravel,
+  php,
+  liquid
 };
