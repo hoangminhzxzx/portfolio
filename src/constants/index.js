@@ -171,7 +171,8 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: storepify
+    image: storepify,
+    link_project: 'https://storepify.thimpress.com/'
   },
   {
     name: "MaxSale",
@@ -192,6 +193,7 @@ const projects = [
       },
     ],
     image: maxsale,
+    link_project: "https://apps.shopify.com/maxsale"
     // source_code_link: "https://github.com/",
   },
   {
@@ -213,6 +215,7 @@ const projects = [
       },
     ],
     image: maxsalepopup,
+    link_project: "https://apps.shopify.com/maxsale-popup"
     // source_code_link: "https://github.com/",
   },
   {
@@ -230,6 +233,7 @@ const projects = [
       },
     ],
     image: diana,
+    link_project: "https://dianaauthentic.com/admin/login"
     // source_code_link: "https://github.com/",
   },
 ];
