@@ -106,7 +106,7 @@ const experiences = [
       // "Developing and maintaining web applications using PHP, Laravel framework and other related technologies.",
       // "Implementing responsive design and ensuring cross-browser compatibility.",
       // "Participating in code reviews and providing constructive feedback to other developers.",
-      "Tham gia phát triển sản phẩm ứng dụng web sử dụng Laravel, Codeigniter 4, Yii 2, và các công nghệ liên quan đến Frontent.",
+      "Tham gia phát triển sản phẩm ứng dụng web sử dụng Laravel, Codeigniter 4, Yii 2, và các công nghệ liên quan đến Frontend.",
       "Xử lý các yêu cầu công việc từ công ty giao phó."
     ],
   },
@@ -221,7 +221,7 @@ const projects = [
   {
     name: "Diana Authentic",
     description:
-      "Dự án cá nhân, build database các phần Prolducts, collection, customers, orders dựa theo Shopify",
+      "Dự án cá nhân, build database các phần Products, collection, customers, orders dựa theo Shopify",
     tags: [
       {
         name: "react",
