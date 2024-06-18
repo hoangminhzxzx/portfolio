@@ -31,6 +31,7 @@ import {
   maxsale,
   maxsalepopup,
   diana,
+  suutruyen,
   liquid,
 } from "../assets";
 
@@ -172,7 +173,7 @@ const projects = [
       },
     ],
     image: storepify,
-    link_project: 'https://storepify.thimpress.com/'
+    link_project: 'https://storepify-demo.myshopify.com/'
   },
   {
     name: "MaxSale",
@@ -219,21 +220,17 @@ const projects = [
     // source_code_link: "https://github.com/",
   },
   {
-    name: "Diana Authentic",
+    name: "Suu truyện",
     description:
-      "Dự án cá nhân, build database các phần Products, collection, customers, orders dựa theo Shopify",
+      "Dự án cá nhân, auto crawl truyện từ các trang web truyện tranh, truyện chữ. Cung cấp cho người dùng đọc truyện online.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
       {
         name: "laravel",
         color: "pink-text-gradient",
       },
     ],
-    image: diana,
-    link_project: "https://dianaauthentic.com/admin/login"
+    image: suutruyen,
+    link_project: "https://suutruyen.com"
     // source_code_link: "https://github.com/",
   },
 ];

@@ -38,6 +38,7 @@ import storepify from "./storepify.png";
 import maxsale from "./maxsale.png";
 import maxsalepopup from "./maxsalepopup.png";
 import diana from "./diana.png";
+import suutruyen from "./suu_truyen.png";
 
 
 export {
@@ -77,5 +78,6 @@ export {
   diana,
   laravel,
   php,
-  liquid
+  liquid,
+  suutruyen
 };
